@@ -47,13 +47,13 @@ npm run dev
 
 **1. プルリクエスト前の作業**
 
-プルリクエストを上げる前に必ず、自分が作業を行なっているブランチで `git pull origin main` を行うこと。
+プルリクエストを上げる前に必ず、自分が作業を行なっているブランチで `git pull origin main` を行うこと。<br/>
 もし、コンフリクトが発生したら、ローカル上で解決する、解決の仕方がわからない場合は、メンバーに相談すること。
 
 **2. `git pull origin main` を行なった後の作業**
 
-remote に変更があった場合は、 `git pull origin main` のコマンドを実行し、remote の変更を取り込む。
-package に更新がないか、確認するため、 `npm install` コマンドを実行する。
+remote に変更があった場合は、 `git pull origin main` のコマンドを実行し、remote の変更を取り込む。<br/>
+package に更新がないか、確認するため、 `npm install` コマンドを実行する。<br/>
 `found 0 vulnerabilities` と表示されれば OK。
 
 **3. プルリクエスト作成時**

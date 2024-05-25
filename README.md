@@ -1,5 +1,34 @@
 # techblog
 
+## 初回起動時
+
+### 環境構築
+
+**1. git clone**
+
+```
+git clone ~~~
+```
+
+**2. パッケージインストール**
+clone したディレクトリへ移動
+
+```
+npm install
+```
+
+**3. 環境変数ファイルの作成**
+
+```
+cp .env.example .env
+```
+
+**4. 起動**
+
+```
+npm run dev
+```
+
 ## 開発 Tips
 
 ### Issue
@@ -39,7 +68,7 @@ package に更新がないか、確認するため、 `npm install` コマンド
 - マージはスカッシュコミット（プルリク内のコミットを 1 つににまとめてコミット）でお願いします。
   - マージの際に`Marge Pull Request`ではなく`Squash and merge`を選んでマージしてください。
 
-## Branch
+### Branch
 
 ### ブランチ命名規則（**プレフィックス**をつける）
 
@@ -49,19 +78,21 @@ package に更新がないか、確認するため、 `npm install` コマンド
   ※ 該当項目がない場合は適宜追加
 
 **＜例＞**
+
 ```
 git checkout -b 'feature/todotop_layout'
 git checkout -b 'fix/todotop_layout'
 git checkout -b 'bug/todotop_layout'
 ```
 
-## Commit
+### Commit
 
 ### コミットメッセージ
 
 - 日本語もしくは英語で端的に
 
 **＜例＞**
+
 ```
 git commit -m 'Top画面 作成'
 git commit -m 'create top layout'

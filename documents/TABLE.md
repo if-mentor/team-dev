@@ -10,9 +10,3 @@
 - テーブル定義書/ER図がないと、テーブル構成が明確にならず、開発に入った際に後から作り直すリスクが高まります。
 
 [Figma](https://www.figma.com/board/ahrYNBWFON2rr9Eop2h2N4/techblog-%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E5%AE%9A%E7%BE%A9%E6%9B%B8%2FER%E5%9B%B3?node-id=0%3A1&t=W2kGeHylhVfpzv4E-1)
-
-## 参考
-
-- [小学生でもわかるデータベース設計入門。実際に設計しながら基礎を学ぼう](https://www.youtube.com/watch?v=Yg546Zua39A)
-- [4ステップで作成する、DB論理設計の手順とチェックポイントまとめ](https://qiita.com/nishina555/items/a79ece1b54faf7240fac)
-- [データベース（RDB）設計の進め方！](https://qiita.com/ryota_i/items/294281b57cc9783bf2c1)

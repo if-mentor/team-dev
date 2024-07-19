@@ -11,4 +11,4 @@
 
 [Figma](https://www.figma.com/design/zFMnzObdV84JSmGPvddKUP/techblog-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0?node-id=0%3A1&t=zKqRSDp8wVCoxsLr-1)
 
-※ ご用意したワイヤーフレームは、幅・高さなど細かい箇所は設定していない為、チーム内で決めて開発していただくようにお願いします。
+※ 用意したワイヤーフレームは、幅・高さなど細かい箇所は設定していない為、チーム内で決めて開発していただくようにお願いします。

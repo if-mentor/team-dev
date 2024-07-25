@@ -107,18 +107,18 @@ git commit -m 'create top layout'
 - React.js (https://ja.react.dev)
 - Next.js (https://nextjs.org)
 - Firebase (https://firebase.google.com)
+- Supabase (https://supabase.com)
 - Vercel (https://vercel.com)
 - GitHub (https://github.co.jp)
 
+※ Firebase、Supabase どちらのBaasを使用するかは、チーム内で話し合って決めてください。
+
 ## 推奨 VScode 拡張機能
 
-- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph&ssr=false#qna) コミットの一覧 → 詳細を閲覧できる
-- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) ファイルの履歴などを確認できる
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph&ssr=false#qna) コミットの一覧、詳細、ファイルの履歴などを確認できる
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 視覚的にリポジトリ、ブランチ、ファイル、コミットの状態を確認や操作することができる
 
 ## バージョン情報
-
-[volta](https://volta.sh) で管理
 
 ```
 "node": "20以上",

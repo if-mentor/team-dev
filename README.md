@@ -100,23 +100,19 @@ git commit -m 'create top layout'
 
 ## 使用技術
 
-- HTML (https://developer.mozilla.org/ja/docs/Web/HTML)
-- CSS (https://developer.mozilla.org/ja/docs/Web/CSS)
-- JavaScript (https://developer.mozilla.org/ja/docs/Web/JavaScript)
-- TypeScript (https://www.typescriptlang.org)
-- React.js (https://ja.react.dev)
-- Next.js (https://nextjs.org)
-- Firebase (https://firebase.google.com)
-- Supabase (https://supabase.com)
-- Vercel (https://vercel.com)
-- GitHub (https://github.co.jp)
+- [HTML](https://developer.mozilla.org/ja/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/ja/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org)
+- [React.js](https://ja.react.dev)
+- [Next.js](https://nextjs.org)
+- [Supabase](https://supabase.com)
+- [Vercel](https://vercel.com)
+- [GitHub](https://github.co.jp)
 
-※ Firebase、Supabase どちらのBaasを使用するかは、チーム内で話し合って決めてください。
+## ライブラリ
 
-## 推奨 VScode 拡張機能
-
-- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph&ssr=false#qna) コミットの一覧、詳細、ファイルの履歴などを確認できる
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 視覚的にリポジトリ、ブランチ、ファイル、コミットの状態を確認や操作することができる
+- []
 
 ## バージョン情報
 

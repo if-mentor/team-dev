@@ -100,19 +100,24 @@ git commit -m 'create top layout'
 
 ## 使用技術
 
+### フロントエンド
 - [HTML](https://developer.mozilla.org/ja/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/ja/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org)
 - [React.js](https://ja.react.dev)
 - [Next.js](https://nextjs.org)
+
+### バックエンド
 - [Supabase](https://supabase.com)
+
+### インフラ
 - [Vercel](https://vercel.com)
+
+### ツール
 - [GitHub](https://github.co.jp)
 
 ## ライブラリ
-
-- []
 
 ## バージョン情報
 

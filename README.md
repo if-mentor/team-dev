@@ -117,14 +117,7 @@ git commit -m 'create top layout'
 ### ツール
 - [GitHub](https://github.co.jp)
 
-## ライブラリ
+## 言語 / パッケージ
 
-## バージョン情報
-
-```
-"node": "20以上",
-https://nodejs.org/ja
-
-"npm": "10以上"
-https://docs.npmjs.com/cli/v9/commands/npm-version
-```
+- [node](https://nodejs.org/ja)
+- [npm](https://docs.npmjs.com/cli/v10/commands/npm-version)

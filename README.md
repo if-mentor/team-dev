@@ -119,5 +119,5 @@ git commit -m 'create top layout'
 
 ## 言語 / パッケージ
 
-- [node](https://nodejs.org/ja)
+- [Node.js](https://nodejs.org/ja)
 - [npm](https://docs.npmjs.com/cli/v10/commands/npm-version)

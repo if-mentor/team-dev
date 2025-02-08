@@ -4,7 +4,7 @@
 
 ### 1. Issue の作成
 
-1. Issue Template を元に Issue を作成してください。
+1. Issue を作成してください。
 2. Assignees で誰が担当しているのかを選択してください。
 3. Projects で GitHub Projects のタスク管理と紐付けを行なってください。
 4. Issue を必ずミーティングで、いつ対応するのかをチームで決めます。

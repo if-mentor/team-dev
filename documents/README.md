@@ -27,8 +27,7 @@
 
 | 期間 | 内容 |
 | --- | --- |
-| 1Week | [設計内容の把握](/documents/DESIGN.md) |
-| 5Week | 実装 |
+| 6Week | [設計内容の把握](/documents/DESIGN.md) / 実装 |
 | 1Week | デプロイ / [お披露目](/documents/REVEAL.md) |
 
 ## 補足
